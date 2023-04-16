@@ -1,0 +1,1 @@
+import('./fileToImport.js');
